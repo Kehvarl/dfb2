@@ -6,4 +6,4 @@ db.sqlite3
 
 venv/
 config/migrations/
-addounts/migrations/
+accounts/migrations/
