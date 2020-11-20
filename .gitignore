@@ -1,1 +1,9 @@
+manage.py
+*.pyc
+db.sqlite3
+*__pycache__/
+*.sqlite3
+
 venv/
+config/migrations/
+addounts/migrations/
